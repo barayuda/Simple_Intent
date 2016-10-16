@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Simple_Intent</string>
+    <string name="ActivitySub1" translatable="false">Ke Activity Sub 1</string>
+    <string name="ActivitySub2" translatable="false">Ke Activity Sub 2</string>
+    <string name="ActivityDial" translatable="false">Ke Activity Dial</string>
+    <string name="txtSub1Activity" translatable="false">Halo Ini Activity Sub 1</string>
+    <string name="txtSub2Activity" translatable="false">Data yang dikirim!</string>
+    <string name="txtExtraData" translatable="false">Training Android Dicoding</string>
+</resources>
