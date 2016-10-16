@@ -4,6 +4,7 @@ Bagaimana menggunakan Intent, putExtra Data, dan mengecek permission pada Androi
 
 ---
 Dalam latihan ini:
+
 1. Pengenalan Intent
 2. Menggunakan Activity dengan putExtra
 3. Memanggil *service*
